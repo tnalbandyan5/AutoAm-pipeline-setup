@@ -1,6 +1,0 @@
-allure-pytest
-allure-python-commons
-Faker
-pytest
-requests
-selenium
